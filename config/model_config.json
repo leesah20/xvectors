@@ -1,0 +1,17 @@
+{
+    "xvector":
+  {
+    "input_dim": 39,
+    "learning_rate": 0.0001,
+    "num_epochs": 2,
+    "batch_size": 128,
+    "hidden_dim": 512,
+    "output_dim": 1500,
+    "segment_layer_dim": 150,
+    "context_sizes": [5, 3, 3, 1, 1],
+    "dilations": [1, 2, 3, 1, 1],
+    "num_speakers": 24,
+    "num_buckets": 3,
+    "num_frames": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "english_train_data": "/features/wordpairs/devpart1/devpart1_utd_terms.mfcc.cmvn_dd.npz",
+    "english_validation_data": "/features/wordpairs/devpart2/devpart2.samediff.mfcc.cmvn_dd.npz",
+    "english_test_data": "/features/wordpairs/zs/zs.samediff.mfcc.cmvn_dd.npz",
+
+    "xitsonga_train_data": "/features/wordpairs/xitsonga/xitsonga_utd_terms.mfcc.cmvn_dd.npz",
+    "xitsonga_validation_data": "/features/wordpairs/xitsonga/xitsonga.samediff.mfcc.cmvn_dd.npz",
+    "xitsonga_test_data": "/features/wordpairs/xitsonga/xitsonga.samediff.mfcc.cmvn_dd.npz",
+
+    "hausa_test_data": "/hausa_features/mfcc/HA/ha.eval.gt_words.npz",
+    "hausa_validation_data": "/hausa_features/mfcc/HA/ha.dev.gt_words.npz",
+    "hausa_train_data": "/hausa_features/mfcc/HA/ha.train.utd_terms.npz",
+    "hausa_spk_files": "/hausa_features/spk",
+
+    "english_full_train_data": "/features/subsets/devpart1/devpart1.mfcc.cmvn_dd.npz",
+    "english_full_validation_data": "/features/subsets/devpart2/devpart2.mfcc.cmvn_dd.npz",
+    "english_full_test_data": "/features/subsets/zs/zs.mfcc.cmvn_dd.npz"
+}
